@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: CourseManagementSystem
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: minhaz.uddin
+Implementation-Vendor-Id: me.minhaz
+Build-Jdk: 1.8.0_191
+Implementation-URL: http://projects.spring.io/spring-boot/CourseManage
+ mentSystem/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
